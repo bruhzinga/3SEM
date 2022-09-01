@@ -1,0 +1,2 @@
+Time: 21.10.2021 17:46:14
+Info: System.ArgumentOutOfRangeException - Заданный аргумент находится вне диапазона допустимых значений.
